@@ -1,0 +1,2 @@
+# idolist
+learning web development
